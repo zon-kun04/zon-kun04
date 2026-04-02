@@ -4,7 +4,7 @@ I'm Zon-kun04 also known as PopularSkid and Baguette. I love coding and security
 
 I'm currently studying and coding a lot of things in the background :)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zon-kun04&label=Profile%20views&color=0e75b6&style=flat" alt="Zon-kun04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=torvalds&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,bots,cloudflare,css,figma,flask,git,html,idea,java,js,linux,maven,mysql,netlify,nextjs,nodejs,prisma,python,react,redis,regex,scss,sqlite,tailwind,tauri,ts,vercel,visualstudio,vscode)](https://skillicons.dev)
